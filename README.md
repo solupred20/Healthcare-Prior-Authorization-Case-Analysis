@@ -73,7 +73,7 @@ The project follows key principles:
 - Healthcare Operations  
 - Insurance & Utilization Management  
 - Clinical Support Roles  
-
+Includes real-world insurance-based prior authorization scenarios using ICD-10 and CPT coding systems.
 ---
 
 ## Author
